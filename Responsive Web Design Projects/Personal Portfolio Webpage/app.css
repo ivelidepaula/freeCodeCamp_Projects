@@ -1,0 +1,33 @@
+body {
+    background-color: white;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Lato;
+    color: black;
+}
+
+html {
+    height: 100%;
+}
+
+#welcome-section {
+    text-align: center;
+    padding-top: 25%;
+    padding-bottom: 25%;
+    min-height: 55vh;
+    padding-top: 45vh;
+}
+
+#project-tile {
+    width: 18rem;
+}
+
+#links {
+    padding: 5rem 0 3rem 0;
+}
+
+#footer {
+    margin: 3rem;
+    padding: 0 3rem;
+}
