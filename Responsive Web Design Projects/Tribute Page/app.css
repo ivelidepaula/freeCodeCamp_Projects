@@ -1,0 +1,15 @@
+#title {
+    text-transform: uppercase;
+}
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+}
+#main {
+    font-family: 'Cormorant Garamond', serif;
+}
+#tribute-info {
+    font-size: 20px;
+}
